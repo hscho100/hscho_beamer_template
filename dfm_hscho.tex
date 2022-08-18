@@ -2,7 +2,12 @@
 %	PACKAGES AND THEMES
 %----------------------------------------------------------------------------------------
 \documentclass[aspectratio=169,xcolor=dvipsnames]{beamer}
-\usepackage[utf8]{inputenc}
+\usefonttheme{professionalfonts}
+\usefonttheme[onlymath]{serif}
+
+\usepackage{luatexko}
+\setmainhangulfont{NanumMyeongjo}
+\setsanshangulfont{NanumSquare}
 \usepackage{hyperref}
 \usepackage{graphicx} % Allows including images
 \usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
@@ -12,8 +17,8 @@
 %----------------------------------------------------------------------------------------
 
 % The title
-\title[short title]{Simple Beamer Theme}
-\subtitle{Subtitle}
+\title[Tips and Tools for ANN and GNN]{인공신경망의 학습과 관련된 여러가지 이슈}
+\subtitle{Pytorch Lightning \& Geometric}
 
 \author[Hyunsoo Cho] {Hyunsoo Cho}
 \institute[NCIA, SNU] % Your institution may be shorthand to save space
@@ -44,12 +49,12 @@
 \end{frame}
 
 %------------------------------------------------
-\section{First Section}
+\section{Pytorch Lightning}
 %------------------------------------------------
 
-\begin{frame}{Bullet Points}
+\begin{frame}{Pytorch Lightning에 관하여}
     \begin{itemize}
-        \item Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        \item Pytorch Lightning은 Pytorch 기반의 code를 간결하게 만들어 준다.
         \item Aliquam blandit faucibus nisi, sit amet dapibus enim tempus eu
         \item Nulla commodo, erat quis gravida posuere, elit lacus lobortis est, quis porttitor odio mauris at libero
         \item Nam cursus est eget velit posuere pellentesque

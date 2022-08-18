@@ -19,7 +19,7 @@
 \setbeamertemplate{enumerate items}[default]
 % table of contents (overview)
 \setbeamertemplate{section in toc}[sections numbered] 
-\setbeamertemplate{subsection in toc}[subsections numbered] %default
+\setbeamertemplate{subsection in toc}[default] %default
 \makeatletter
 \setbeamertemplate{headline}
 {
@@ -55,6 +55,11 @@
 }
 \makeatother
 
+\setbeamertemplate{section in toc}{%
+  {\color{DarkBlue!70!black}\inserttocsectionnumber.}~\inserttocsection}
+\setbeamercolor{subsection in toc}{bg=white,fg=structure}
+\setbeamertemplate{subsection in toc}{%
+  \hspace{1.2em}{\color{PaneGrey}\inserttocsectionnumber.\inserttocsubsectionnumber.}~\color{PaneGrey}\inserttocsubsection\par} %\rule[0.3ex]{3pt}{3pt}
 
 
 \mode<all>
