@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.29)  18 AUG 2022 15:15
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.29)  18 AUG 2022 19:08
  restricted system commands enabled.
  file:line:error style messages enabled.
 **d:/dfm_beamer/dfm_hscho.tex
@@ -652,25 +652,25 @@ Package fontspec Info: Font family 'NanumMyeongjo(0)' created for font
 luaotfload | aux : font no 25 (nil) defines no feature for script latn
 luaotfload | aux : font no 25 (nil) defines no feature for script dflt
 
-Package fontspec Info: Could not resolve font "NanumSquare/BI" (it probably
+Package fontspec Info: Could not resolve font "NanumGothic/BI" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: Could not resolve font "NanumSquare/I" (it probably
+Package fontspec Info: Could not resolve font "NanumGothic/I" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: Font family 'NanumSquare(0)' created for font
-(fontspec)             'NanumSquare' with options [Ligatures=TeX].
+Package fontspec Info: Font family 'NanumGothic(0)' created for font
+(fontspec)             'NanumGothic' with options [Ligatures=TeX].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"NanumSquare:mode=node;language=dflt;+tlig;"
+(fontspec)             <->"NanumGothic:mode=node;language=dflt;+tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"NanumSquare/B:mode=node;language=dflt;+tlig;"
+(fontspec)             <->"NanumGothic/B:mode=node;language=dflt;+tlig;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
  (c:/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
@@ -912,8 +912,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] [4
 
 ]
-LaTeX Font Info:    Font shape `TU/NanumSquare(0)/bx/n' in size <10.95> not available
-(Font)              Font shape `TU/NanumSquare(0)/b/n' tried instead on input line 100.
+LaTeX Font Info:    Font shape `TU/NanumGothic(0)/bx/n' in size <10.95> not available
+(Font)              Font shape `TU/NanumGothic(0)/b/n' tried instead on input line 100.
  [5
 
 ] [6
@@ -923,8 +923,8 @@ LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `TU/lmss/m/sl' tried instead on input line 127.
 
 
-LaTeX Font Warning: Font shape `TU/NanumSquare(0)/m/it' undefined
-(Font)              using `TU/NanumSquare(0)/m/n' instead on input line 127.
+LaTeX Font Warning: Font shape `TU/NanumGothic(0)/m/it' undefined
+(Font)              using `TU/NanumGothic(0)/m/n' instead on input line 127.
 
 [7
 
@@ -968,10 +968,10 @@ Here is how much of LuaTeX's memory you used:
    50 hlist, 8 vlist, 8 rule, 3 local_par, 47 glue, 4 kern, 11 penalty, 7 glyph, 219 attribute, 61 glue_spec, 108 attribute_list, 4 write, 3 user_defined, 39 pdf_literal, 10 pdf_colorstack nodes
    avail lists: 2:3352,3:772,4:331,5:192,6:79,7:1960,8:76,9:648,10:18,11:106
  45579 multiletter control sequences out of 65536+600000
- 77 fonts using 62997143 bytes
+ 77 fonts using 66430727 bytes
  128i,16n,115p,458b,659s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans9-oblique.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans9-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans17-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans8-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans12-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans10-regular.otf><c:/Windows/Fonts/NanumSquareR.ttf><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on dfm_hscho.pdf (12 pages, 141203 bytes).
+<c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans9-oblique.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans9-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans17-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans8-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans12-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans10-regular.otf><c:/Windows/Fonts/NanumGothic.ttf><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on dfm_hscho.pdf (12 pages, 147091 bytes).
 
 PDF statistics: 517 PDF objects out of 1000 (max. 8388607)
  431 compressed objects within 5 object streams

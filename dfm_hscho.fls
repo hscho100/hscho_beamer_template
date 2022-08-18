@@ -437,8 +437,8 @@ INPUT c:/texlive/2022/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
 INPUT C:/texlive/2022/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc
 INPUT C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/nanummyeongjo.luc
 INPUT C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/nanummyeongjobold.luc
-INPUT C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/nanumsquarer.luc
-INPUT C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/nanumsquareb.luc
+INPUT C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/nanumgothic.luc
+INPUT C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/nanumgothicbold.luc
 INPUT c:/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
 INPUT c:/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
 INPUT c:/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
