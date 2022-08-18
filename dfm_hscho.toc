@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{First Section}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Second Section}{6}{0}{1}
+\beamer@sectionintoc {2}{Real Second Section}{10}{0}{2}

@@ -1,0 +1,50 @@
+\mode<presentation>
+
+% Settings compress
+\usetheme{EastLansing} %[secheader] Madrid
+%\usetheme{EastLansing} % EastLansing CambridgeUS
+
+\useinnertheme{circles}
+% \useoutertheme{simpleinfo}
+% \useoutertheme{split} % Alternatively: miniframes, infolines, split
+\usefonttheme{SimpleDarkBlue}
+\usecolortheme{SimpleDarkBlue}
+%\usecolortheme{orchid}
+%\usecolortheme{SimpleDarkBlue}
+
+%\setbeamertemplate{footline} % To remove the footer line in all slides uncomment this line
+%\setbeamertemplate{footline}[page number] % To replace the footer line in all slides with a simple slide count uncomment this line
+%\setbeamertemplate{navigation symbols}{} % To remove the navigation symbols from the bottom of all slides uncomment this line
+\setbeamertemplate{blocks}[rounded][shadow=true]
+\setbeamertemplate{enumerate items}[default]
+% table of contents (overview)
+\setbeamertemplate{section in toc}[sections numbered] 
+\setbeamertemplate{subsection in toc}[subsections numbered] %default
+\makeatletter
+\setbeamertemplate{headline}
+{
+  \leavevmode%
+  \ifnum\thesection=0
+  \hbox{%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.75ex,dp=1.5ex,right]{frametitle}% section in head/foot
+      \usebeamerfont{section in head/foot}%\thesection.\insertsectionhead\hspace*{2ex}
+  \end{beamercolorbox}% 
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.75ex,dp=1.5ex,left]{frametitle}% subsection in head/foot
+      \usebeamerfont{subsection in head/foot}\hspace*{2ex}\insertsubsectionhead
+  \end{beamercolorbox}}%  
+  \else
+    \hbox{%
+    \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.65ex,dp=1.5ex,right]{section in head/foot}%
+        \usebeamerfont{section in head/foot}\thesection.\insertsectionhead\hspace*{2ex}
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.65ex,dp=1.5ex,left]{subsection in head/foot}%
+        \usebeamerfont{subsection in head/foot}\hspace*{2ex}\insertsubsectionhead
+    \end{beamercolorbox}}%   
+  \fi
+  \vskip0pt%
+}
+\makeatother
+
+
+
+\mode<all>
