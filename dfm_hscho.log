@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.29)  18 AUG 2022 13:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.29)  18 AUG 2022 13:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -757,15 +757,15 @@ Package rerunfilecheck Info: File `dfm_hscho.out' has not changed.
 (rerunfilecheck)             Checksum: 656FC5BFF4662EA943B2AB4D6BDF5643;385.
  ) 
 Here is how much of TeX's memory you used:
- 22301 strings out of 478233
- 441206 string characters out of 5847836
- 687453 words of memory out of 5000000
- 40028 multiletter control sequences out of 15000+600000
+ 22307 strings out of 478233
+ 441285 string characters out of 5847836
+ 687657 words of memory out of 5000000
+ 40034 multiletter control sequences out of 15000+600000
  478409 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,122p,454b,626s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on dfm_hscho.pdf (12 pages, 143351 bytes).
+Output written on dfm_hscho.pdf (12 pages, 143287 bytes).
 PDF statistics:
  482 PDF objects out of 1000 (max. 8388607)
  407 compressed objects within 5 object streams
